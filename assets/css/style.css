@@ -1,0 +1,132 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+
+<!--------- http://www.sattacademy.com/html_tag/tag_form.php ----------->
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+    color:#222;
+}
+
+
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+a:hover { text-decoration: none }
+
+.section-padding{
+    padding: 40px 0;
+    margin-bottom: 70px;
+    background:#ececea;
+}
+
+.container{
+    background: #fff;
+    padding: 10px; 
+}
+
+.section-form-area{
+    background: #fffde6
+}
+
+.header-menu-item ul{
+    display: inline-block;
+}
+
+.header-menu-item ul li{
+    float: left;
+    list-style: none;
+    
+}
+
+.header-menu-item ul li a{
+    color:#333;
+    font-size: 15px;
+    display: block;
+    margin: 15px; 
+}
+
+.header-menu-item ul li a:hover{
+    color: red;
+}
+
+
+
+.child-details-area input{
+    display: inline-block;
+    width:80%;
+    margin-right: 70px; 
+    margin-bottom: 20px
+   
+}
+
+.child-details-area select{
+    width:80%;
+}
+
+.father-conten-area, .certifire-conten-area{
+    margin-left: 15px;
+}
+
+.sertifier-details input{
+    width:15px;
+    margin: 10px;
+    padding: ;
+}
+.col-md-12 input{
+    width:91%;
+}
+
+
+.mothers-details-area input{
+    display: inline-block;
+    width:80%;
+    margin-right: 70px; 
+    margin-bottom: 20px
+   
+}
+
+.inside-city input{
+    margin: 0;
+    padding: 0;
+    width:15px; 
+}
+
+.mothers-details-area .col-md-12 input{
+    width:91%;
+}
+
+.lorem-ipsum{
+    margin-left: 15px; 
+}
+
+
+
+
+
+
+
+
+
